@@ -63,7 +63,7 @@ $ npm install
 
 ---
 
-## BrowserList
+## 🌎 BrowserList
 
 #### Best user experience can be enjoyed on:
 
