@@ -2,7 +2,7 @@
 
 > Designed and implemented a production ready application for displaying list of Objects for apartment
 
-> Technology used: `React 17`, `Tailwind CSS`,
+> Technology used: `React 17`, `Tailwind CSS`
 
 # 🚀 [Live-Demo](https://fayez-haptik.web.app/)
 
