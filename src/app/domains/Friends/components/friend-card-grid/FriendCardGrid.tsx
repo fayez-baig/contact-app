@@ -51,10 +51,6 @@ const FriendCardGrid: React.FC<FriendCardGridProps> = ({
   const getPagedData = () => {
     let filtered = fliteredFriendArr;
     if (search) {
-      console.log(
-        '🚀 ~ file: FriendCardGrid.tsx ~ line 52 ~ fliteredFriendArr',
-        fliteredFriendArr,
-      );
       filtered = fliteredFriendArr.filter(friend =>
         friend.name.toLowerCase().includes(search.toLowerCase()),
       );
